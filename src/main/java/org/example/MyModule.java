@@ -7,10 +7,13 @@ import javax.inject.Named;
 
 import com.google.inject.AbstractModule;
 
+import org.eclipse.sisu.EagerSingleton;
+
 /**
  *
  */
 @Named
+@EagerSingleton
 public class MyModule extends AbstractModule {
 
 	/**
