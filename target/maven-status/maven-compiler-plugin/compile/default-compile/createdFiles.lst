@@ -1,0 +1,4 @@
+META-INF\sisu\javax.inject.Named
+org\example\Config.class
+org\example\EchoMojo.class
+org\example\MyModule.class
